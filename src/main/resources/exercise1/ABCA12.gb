@@ -1,0 +1,691 @@
+LOCUS       NM_173076               9112 bp    mRNA    linear   PRI 15-MAR-2015
+DEFINITION  Homo sapiens ATP-binding cassette, sub-family A (ABC1), member 12
+            (ABCA12), transcript variant 1, mRNA.
+ACCESSION   NM_173076
+VERSION     NM_173076.2  GI:30795237
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 9112)
+  AUTHORS   Akiyama M.
+  TITLE     The roles of ABCA12 in epidermal lipid barrier formation and
+            keratinocyte differentiation
+  JOURNAL   Biochim. Biophys. Acta 1841 (3), 435-440 (2014)
+   PUBMED   23954554
+  REMARK    GeneRIF: ABCA12 mutations result in defective lipid transport via
+            lamellar granules in the keratinocytes, leading to ichthyosis
+            phenotypes from malformation of the stratum corneum lipid barrier.
+            Review article
+REFERENCE   2  (bases 1 to 9112)
+  AUTHORS   Goldsmith T, Fuchs-Telem D, Israeli S, Sarig O, Padalon-Brauch G,
+            Bergman R, Indelman M, Sprecher E and Nousbeck J.
+  TITLE     The sound of silence: autosomal recessive congenital ichthyosis
+            caused by a synonymous mutation in ABCA12
+  JOURNAL   Exp. Dermatol. 22 (4), 251-254 (2013)
+   PUBMED   23528209
+  REMARK    GeneRIF: Report a consanguineous family of Arab Muslim origin with
+            several members displaying a severe form of congenital
+            ichthyosiform erythroderma. Identified a region of homozygosity
+            shared by all patients on 2q34, in a region harbouring the ABCA12
+            gene.
+REFERENCE   3  (bases 1 to 9112)
+  AUTHORS   Nawaz S, Tariq M, Ahmad I, Malik NA, Baig SM, Dahl N and Klar J.
+  TITLE     Non-bullous congentital ichthyosiform erythroderma associated with
+            homozygosity for a novel missense mutation in an ATP binding domain
+            of ABCA12
+  JOURNAL   Eur J Dermatol 22 (2), 178-181 (2012)
+   PUBMED   22257947
+  REMARK    GeneRIF: We show that homozygosity for a novel c.4676G>T transition
+            in the ABCA12 gene, resulting in a p.G1559V substitution, causes
+            non-bullous congenital ichthyosiform erythroderms in 5 members of
+            an extended family.
+REFERENCE   4  (bases 1 to 9112)
+  AUTHORS   Habib A, Pasha W, Raza N and Hameed A.
+  TITLE     Harlequin ichthyosis in two siblings
+  JOURNAL   J Coll Physicians Surg Pak 21 (8), 503-505 (2011)
+   PUBMED   21798141
+  REMARK    GeneRIF: The researchers report on another fatal case of Harlequin
+            ichthyosis that may be associated with mutations of the ABCA12 gene
+REFERENCE   5  (bases 1 to 9112)
+  AUTHORS   Naz N and Samdani AJ.
+  TITLE     Detection of filaggrin gene mutation (2282del4) in Pakistani
+            Ichthyosis vulgaris families
+  JOURNAL   J Coll Physicians Surg Pak 21 (6), 382-383 (2011)
+   PUBMED   21712002
+  REMARK    GeneRIF: The authors report on a 2282del4 mutation that may be
+            associated with ichthyosis vulgaris in a Pakistani population.
+REFERENCE   6  (bases 1 to 9112)
+  AUTHORS   Dean M, Rzhetsky A and Allikmets R.
+  TITLE     The human ATP-binding cassette (ABC) transporter superfamily
+  JOURNAL   Genome Res. 11 (7), 1156-1166 (2001)
+   PUBMED   11435397
+  REMARK    Review article
+REFERENCE   7  (bases 1 to 9112)
+  AUTHORS   Parmentier L, Clepet C, Boughdene-Stambouli O, Lakhdar H,
+            Blanchet-Bardon C, Dubertret L, Wunderle E, Pulcini F, Fizames C
+            and Weissenbach J.
+  TITLE     Lamellar ichthyosis: further narrowing, physical and expression
+            mapping of the chromosome 2 candidate locus
+  JOURNAL   Eur. J. Hum. Genet. 7 (1), 77-87 (1999)
+   PUBMED   10094194
+REFERENCE   8  (bases 1 to 9112)
+  AUTHORS   Allikmets R, Gerrard B, Hutchinson A and Dean M.
+  TITLE     Characterization of the human ABC superfamily: isolation and
+            mapping of 21 new genes using the expressed sequence tags database
+  JOURNAL   Hum. Mol. Genet. 5 (10), 1649-1655 (1996)
+   PUBMED   8894702
+REFERENCE   9  (bases 1 to 9112)
+  AUTHORS   Parmentier L, Lakhdar H, Blanchet-Bardon C, Marchand S, Dubertret L
+            and Weissenbach J.
+  TITLE     Mapping of a second locus for lamellar ichthyosis to chromosome
+            2q33-35
+  JOURNAL   Hum. Mol. Genet. 5 (4), 555-559 (1996)
+   PUBMED   8845852
+  REMARK    Erratum:[Hum Mol Genet 1996 Jun;5(6):862-3]
+REFERENCE   10 (bases 1 to 9112)
+  AUTHORS   Richard,G. and Bale,S.J.
+  TITLE     Autosomal Recessive Congenital Ichthyosis
+  JOURNAL   (in) Pagon RA, Adam MP, Ardinger HH, Bird TD, Dolan CR, Fong CT,
+            Smith RJH and Stephens K (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301593
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AY219711.1, BC144073.1,
+            AC072062.3, AF418105.1, AK123578.1 and AK096597.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On May 16, 2003 this sequence version replaced gi:27881502.
+            
+            Summary: The membrane-associated protein encoded by this gene is a
+            member of the superfamily of ATP-binding cassette (ABC)
+            transporters. ABC proteins transport various molecules across
+            extra- and intracellular membranes. ABC genes are divided into
+            seven distinct subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20,
+            and White). This encoded protein is a member of the ABC1 subfamily,
+            which is the only major ABC subfamily found exclusively in
+            multicellular eukaryotes. Alternative splicing of this gene results
+            in multiple transcript variants. [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (1) encodes the longer isoform
+            (a).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AY219711.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-2170              AY219711.1         1-2170
+            2171-2548           BC144073.1         2113-2490
+            2549-2552           AC072062.3         64944-64947         c
+            2553-2650           AY219711.1         2553-2650
+            2651-6525           AF418105.1         1773-5647
+            6526-7960           AK123578.1         1066-2500
+            7961-8870           AK096597.1         1086-1995
+            8871-9112           AY219711.1         8871-9112
+FEATURES             Location/Qualifiers
+     source          1..9112
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q34"
+     gene            1..9112
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /note="ATP-binding cassette, sub-family A (ABC1), member
+                     12"
+                     /db_xref="GeneID:26154"
+                     /db_xref="HGNC:HGNC:14637"
+                     /db_xref="HPRD:07416"
+                     /db_xref="MIM:607800"
+     exon            1..289
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    215..217
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /note="upstream in-frame stop codon"
+     CDS             221..8008
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /note="isoform a is encoded by transcript variant 1;
+                     ATP-binding cassette transporter 12"
+                     /codon_start=1
+                     /product="ATP-binding cassette sub-family A member 12
+                     isoform a"
+                     /protein_id="NP_775099.2"
+                     /db_xref="GI:30795238"
+                     /db_xref="CCDS:CCDS33372.1"
+                     /db_xref="GeneID:26154"
+                     /db_xref="HGNC:HGNC:14637"
+                     /db_xref="HPRD:07416"
+                     /db_xref="MIM:607800"
+                     /translation="MASLFHQLQILVWKNWLGVKRQPLWTLVLILWPVIIFIILAITR
+                     TKFPPTAKPTCYLAPRNLPSTGFFPFLQTLLCDTDSKCKDTPYGPQDLLRRKGIDDAL
+                     FKDSEILRKSSNLDKDSSLSFQSTQVPERRHASLATVFPSPSSDLEIPGTYTFNGSQV
+                     LARILGLEKLLKQNSTSEDIRRELCDSYSGYIVDDAFSWTFLGRNVFNKFCLSNMTLL
+                     ESSLQELNKQFSQLSSDPNNQKIVFQEIVRMLSFFSQVQEQKAVWQLLSSFPNVFQND
+                     TSLSNLFDVLRKANSVLLVVQKVYPRFATNEGFRTLQKSVKHLLYTLDSPAQGDSDNI
+                     THVWNEDDGQTLSPSSLAAQLLILENFEDALLNISANSPYIPYLACVRNVTDSLARGS
+                     PENLRLLQSTIRFKKSFLRNGSYEDYFPPVPEVLKSKLSQLRNLTELLCESETFSLIE
+                     KSCQLSDMSFGSLCEESEFDLQLLEAAELGTEIAASLLYHDNVISKKVRDLLTGDPSK
+                     INLNMDQFLEQALQMNYLENITQLIPIIEAMLHVNNSADASEKPGQLLEMFKNVEELK
+                     EDLRRTTGMSNRTIDKLLAIPIPDNRAEIISQVFWLHSCDTNITTPKLEDAMKEFCNL
+                     SLSERSRQSYLIGLTLLHYLNIYNFTYKVFFPRKDQKPVEKMMELFIRLKEILNQMAS
+                     GTHPLLDKMRSLKQMHLPRSVPLTQAMYRSNRMNTPQGSFSTISQALCSQGITTEYLT
+                     AMLPSSQRPKGNHTKDFLTYKLTKEQIASKYGIPINSTPFCFSLYKDIINMPAGPVIW
+                     AFLKPMLLGRILYAPYNPVTKAIMEKSNVTLRQLAELREKSQEWMDKSPLFMNSFHLL
+                     NQAIPMLQNTLRNPFVQVFVKFSVGLDAVELLKQIDELDILRLKLENNIDIIDQLNTL
+                     SSLTVNISSCVLYDRIQAAKTIDEMEREAKRLYKSNELFGSVIFKLPSNRSWHRGYDS
+                     GNVFLPPVIKYTIRMSLKTAQTTRSLRTKIWAPGPHNSPSHNQIYGRAFIYLQDSIER
+                     AIIELQTGRNSQEIAVQVQAIPYPCFMKDNFLTSVSYSLPIVLMVAWVVFIAAFVKKL
+                     VYEKDLRLHEYMKMMGVNSCSHFFAWLIESVGFLLVTIVILIIILKFGNILPKTNGFI
+                     LFLYFSDYSFSVIAMSYLISVFFNNTNIAALIGSLIYIIAFFPFIVLVTVENELSYVL
+                     KVFMSLLSPTAFSYASQYIARYEEQGIGLQWENMYTSPVQDDTTSFGWLCCLILADSF
+                     IYFLIAWYVRNVFPGTYGMAAPWYFPILPSYWKERFGCAEVKPEKSNGLMFTNIMMQN
+                     TNPSASPEYMFSSNIEPEPKDLTVGVALHGVTKIYGSKVAVDNLNLNFYEGHITSLLG
+                     PNGAGKTTTISMLTGLFGASAGTIFVYGKDIKTDLHTVRKNMGVCMQHDVLFSYLTTK
+                     EHLLLYGSIKVPHWTKKQLHEEVKRTLKDTGLYSHRHKRVGTLSGGMKRKLSISIALI
+                     GGSRVVILDEPSTGVDPCSRRSIWDVISKNKTARTIILSTHHLDEAEVLSDRIAFLEQ
+                     GGLRCCGSPFYLKEAFGDGYHLTLTKKKSPNLNANAVCDTMAVTAMIQSHLPEAYLKE
+                     DIGGELVYVLPPFSTKVSGAYLSLLRALDNGMGDLNIGCYGISDTTVEEVFLNLTKES
+                     QKNSAMSLEHLTQKKIGNSNANGISTPDDLSVSSSNFTDRDDKILTRGERLDGFGLLL
+                     KKIMAILIKRFHHTRRNWKGLIAQVILPIVFVTTAMGLGTLRNSSNSYPEIQISPSLY
+                     GTSEQTAFYANYHPSTEALVSAMWDFPGIDNMCLNTSDLQCLNKDSLEKWNTSGEPIT
+                     NFGVCSCSENVQECPKFNYSPPHRRTYSSQVIYNLTGQRVENYLISTANEFVQKRYGG
+                     WSFGLPLTKDLRFDITGVPANRTLAKVWYDPEGYHSLPAYLNSLNNFLLRVNMSKYDA
+                     ARHGIIMYSHPYPGVQDQEQATISSLIDILVALSILMGYSVTTASFVTYVVREHQTKA
+                     KQLQHISGIGVTCYWVTNFIYDMVFYLVPVAFSIGIIAIFKLPAFYSENNLGAVSLLL
+                     LLFGYATFSWMYLLAGLFHETGMAFITYVCVNLFFGINSIVSLSVVYFLSKEKPNDPT
+                     LELISETLKRIFLIFPQFCFGYGLIELSQQQSVLDFLKAYGVEYPNETFEMNKLGAMF
+                     VALVSQGTMFFSLRLLINESLIKKLRLFFRKFNSSHVRETIDEDEDVRAERLRVESGA
+                     AEFDLVQLYCLTKTYQLIHKKIIAVNNISIGIPAGECFGLLGVNGAGKTTIFKMLTGD
+                     IIPSSGNILIRNKTGSLGHVDSHSSLVGYCPQEDALDDLVTVEEHLYFYARVHGIPEK
+                     DIKETVHKLLRRLHLMPFKDRATSMCSYGTKRKLSTALALIGKPSILLLDEPSSGMDP
+                     KSKRHLWKIISEEVQNKCSVILTSHSMEECEALCTRLAIMVNGKFQCIGSLQHIKSRF
+                     GRGFTVKVHLKNNKVTMETLTKFMQLHFPKTYLKDQHLSMLEYHVPVTAGGVANIFDL
+                     LETNKTALNITNFLVSQTTLEEVFINFAKDQKSYETADTSSQGSTISVDSQDDQMES"
+     misc_feature    287..349
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    3413..3475
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    3554..3616
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    3653..3715
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    3740..3802
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    3818..3880
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    3968..4030
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    5459..5521
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    6155..6217
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    6323..6385
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    6434..6496
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    6527..6589
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    6779..6841
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     misc_feature    7028..7090
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q86UK0.3);
+                     transmembrane region"
+     exon            290..383
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            384..537
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            538..629
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            630..727
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            728..913
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            914..1092
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1093..1205
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1206..1281
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1282..1400
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1401..1507
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1508..1764
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1765..1877
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1878..2002
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2003..2176
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2177..2341
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2342..2552
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2553..2692
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2693..2812
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2813..2903
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2904..3083
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3084..3399
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3400..3514
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3515..3844
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3845..3914
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3915..4049
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4050..4196
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4197..4383
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4384..4602
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4603..4799
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4800..4960
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            4961..5197
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5198..5348
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5349..5601
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5602..5688
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5689..5782
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5783..5910
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5911..5998
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            5999..6104
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6105..6159
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6160..6337
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6338..6453
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6454..6613
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6614..6867
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            6868..7072
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            7073..7182
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            7183..7324
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            7325..7459
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            7460..7563
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            7564..7656
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            7657..7762
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            7763..7900
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     exon            7901..9100
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /inference="alignment:Splign:1.39.8"
+     STS             8425..8957
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+                     /standard_name="ABCA12_8176"
+                     /db_xref="UniSTS:467541"
+     regulatory      9074..9079
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+     polyA_site      9100
+                     /gene="ABCA12"
+                     /gene_synonym="ARCI4A; ARCI4B; ICR2B; LI2"
+ORIGIN      
+        1 gaagagttga ttgagaagtg cctcttggtt aaggattaac cacagggaaa aatccagcag
+       61 aaacagaaga actgtgggtt tcttacccca gccctcaagg aagctatgcc gtgaaagggg
+      121 tactgataca ctgacataca gcaagttgga cggggcatca gttcttcatt tgtggagtgg
+      181 agaaaagaag aggaaatctc tcatttgggg catttgaagg atggcttccc tgtttcatca
+      241 gcttcagatc ctggtctgga aaaattggct aggtgtaaaa aggcagccgc tttggacact
+      301 tgtcttgatc ttatggccag tcattatttt cataattttg gctattactc ggaccaaatt
+      361 tcctccaact gcaaaaccaa cttgttacct cgcacctcga aaccttccta gtactggatt
+      421 ctttccattc ctgcagaccc tactctgtga cacagactct aaatgcaaag acacacccta
+      481 tggcccacaa gatctgcttc gtaggaaagg aattgatgat gcactattta aagacagtga
+      541 gattctgaga aagtcatcca acctggataa ggacagcagt ttatcattcc agagcaccca
+      601 agttccagaa agaaggcatg catcactagc cacagtattt cccagtccaa gttctgattt
+      661 ggaaatcccc ggaacatata ctttcaatgg cagtcaagtg ctcgcacgaa ttcttggctt
+      721 ggaaaagctg ttaaagcaaa attcaacttc agaagatata cgaagagaac tatgtgacag
+      781 ctattcagga tacattgtgg atgatgcctt ctcttggacc tttctaggaa gaaatgtttt
+      841 taacaaattt tgcctttcta acatgaccct tttagagtct tctctccaag aactaaacaa
+      901 acagttctcc cagctatcca gtgaccccaa caatcagaag atagtgtttc aggaaatagt
+      961 cagaatgctg tctttcttct cacaagtgca agagcagaaa gctgtgtggc agcttctgtc
+     1021 tagttttcca aatgtgtttc agaatgacac atcactaagc aatctatttg atgttcttcg
+     1081 aaaggcaaac agtgtgctgc tggttgtgca gaaggtttat ccacgttttg caactaacga
+     1141 aggtttcaga accctccaga agtctgttaa acatctgctg tacactctgg actccccagc
+     1201 tcaaggtgac tccgataata taacgcatgt gtggaatgag gatgatggac agaccttatc
+     1261 tccaagcagt ctggctgcac agctcctaat tctggaaaac tttgaagatg ccctcttaaa
+     1321 tatatcagca aatagtcctt atattcctta cttggcatgt gtgagaaatg tgactgacag
+     1381 tttggccaga ggttcaccag aaaatctaag actcctgcag tccacaatac gatttaaaaa
+     1441 atcttttctt cgcaatggtt cctatgaaga ttactttcct ccagttcctg aagtcctaaa
+     1501 atcaaaactg tctcaacttc gaaacttgac cgaacttctt tgtgaatctg aaactttcag
+     1561 tttgatagag aagtcatgcc agctctctga tatgagcttt gggagcctgt gtgaagaaag
+     1621 tgagtttgat ctgcaactcc tcgaagcggc agagctgggc accgaaatag cagccagctt
+     1681 actgtaccat gacaatgtca tatctaaaaa agtgagagat ttgctgactg gagatccaag
+     1741 caaaattaat ttaaatatgg atcagtttct agaacaggca ctgcaaatga attacttgga
+     1801 aaatatcact cagttaatac cgatcataga agccatgctg catgtcaata acagtgcaga
+     1861 tgcttctgaa aagccaggtc agttactaga aatgtttaaa aatgttgaag agctgaaaga
+     1921 agatttaagg agaacaacag gaatgtccaa caggactatt gacaagttgc tggccattcc
+     1981 catccctgat aatagagctg agattatttc tcaggtgttc tggctgcatt cctgtgatac
+     2041 taatatcacc actcccaaac tagaagatgc aatgaaagaa ttctgcaacc tgtctctttc
+     2101 agagagatcc cggcagtctt acctcatcgg actcaccctt ctgcactact taaacattta
+     2161 caacttcaca tacaaggtgt ttttcccgag gaaagatcaa aagccagtag aaaagatgat
+     2221 ggagctcttc ataagactaa aagagattct caatcagatg gcttctggca cacatccgct
+     2281 gctagacaaa atgagatccc tgaagcaaat gcatctgccc agaagtgttc cattaacaca
+     2341 ggcaatgtac agaagcaacc gaatgaacac accacaagga tcatttagca ccatctccca
+     2401 agcattatgt tctcaaggaa ttaccactga atatttaact gccatgctgc cctcttccca
+     2461 gaggccaaaa ggcaaccaca ccaaggattt tttgacttat aaattaacta aagagcaaat
+     2521 tgcttcaaaa tatggaattc ccataaattc cacaccattt tgcttctccc tttataaaga
+     2581 catcattaac atgcccgctg gacctgtgat ttgggctttc ttgaaaccta tgttgttggg
+     2641 aagaattttg tatgcaccat ataacccagt cacaaaggca ataatggaaa agtccaatgt
+     2701 aactctgaga cagctggcgg aattaagaga aaaatctcaa gagtggatgg ataagtcgcc
+     2761 acttttcatg aattccttcc atctgttaaa ccaggcaatt ccaatgctcc agaatactct
+     2821 aaggaaccct tttgtgcaag tttttgtaaa gttctccgtg ggactcgatg ctgttgaact
+     2881 attgaaacag atagatgaac tcgatattct aagactgaaa ttagagaaca acattgacat
+     2941 catcgatcag cttaacacac tatcttccct gacagtaaat atttcctctt gtgtattata
+     3001 tgaccgtatt caggcagcaa aaaccataga tgaaatggag agagaggcta aaaggctcta
+     3061 caaaagcaac gaactctttg gaagtgttat ttttaagctt ccttctaaca gaagctggca
+     3121 cagaggctat gactctggaa atgtctttct tcctcctgtc ataaaatata ccatccggat
+     3181 gagtctcaag accgcacaga ccacaagaag cctaagaacc aagatttggg ctccagggcc
+     3241 acacaattct ccatcacaca accagatcta tggcagggct tttatttatt tacaggatag
+     3301 tattgaaaga gcaatcattg aattgcaaac tggaaggaac tcccaggaaa tagcagtcca
+     3361 ggttcaagca attccttatc cctgcttcat gaaagacaac ttcctaacca gtgtctctta
+     3421 ttctcttcca attgtgctta tggttgcctg ggttgtattt atagctgcct ttgtaaaaaa
+     3481 gcttgtctat gagaaagacc tccggcttca tgagtacatg aagatgatgg gtgtgaactc
+     3541 ctgcagccat ttctttgcct ggcttataga gagtgttgga tttttactgg ttaccatcgt
+     3601 gatcctcatc attatactca agtttggcaa tattcttcct aaaacaaatg ggttcatttt
+     3661 gttcctgtat ttttcggact acagcttctc ggttattgcc atgagctatc ttatcagtgt
+     3721 cttcttcaac aacaccaaca ttgcagctct gatcggaagc ctcatctaca tcattgcctt
+     3781 ctttccattt attgttctgg ttacagtgga gaatgagttg agctatgtat tgaaagtgtt
+     3841 catgagcctg ctgtccccaa cagcattcag ctatgcaagc caatacattg cacgatacga
+     3901 agaacagggc attggtcttc agtgggaaaa tatgtacacc tccccggttc aggatgacac
+     3961 cacctcattt ggctggctgt gctgtctaat cctagctgac tctttcattt atttccttat
+     4021 tgcttggtat gtcaggaatg tcttcccagg gacatacggt atggcagctc cctggtattt
+     4081 tccaattctt ccttcctatt ggaaggagcg atttgggtgt gcagaggtga agcctgagaa
+     4141 gagcaatggc ctcatgttta ctaacatcat gatgcagaac accaacccat ctgccagtcc
+     4201 tgaatacatg ttttcctcta acatcgagcc tgaacctaaa gatctcacag tcggggttgc
+     4261 cctgcatggg gtcacaaaga tctatggctc aaaagttgct gttgataacc tcaatctgaa
+     4321 cttttatgaa gggcatatta cttcattgct ggggcccaat ggagctggga aaactactac
+     4381 catttccatg ttaactgggc tgtttggggc ctcagcaggc accatttttg tatatggaaa
+     4441 agatatcaaa acagacctac acacggtacg gaagaacatg ggagtctgta tgcagcacga
+     4501 cgtcttgttc agttacctca ctactaagga gcaccttctc ctatatggtt ccatcaaagt
+     4561 tcctcactgg actaaaaagc agctccacga ggaagtaaaa aggactttaa aagatactgg
+     4621 actatatagc catcgtcata agagagttgg aacactgtca ggaggcatga agaggaagtt
+     4681 atctatatcc atagctctca ttggtggatc aagggtagta attttggatg aaccatctac
+     4741 tggagttgac ccatgttctc gccgaagtat atgggatgtt atatccaaga acaaaactgc
+     4801 cagaacaatc attctgtcaa cgcaccactt ggacgaggct gaagtgctga gtgaccgcat
+     4861 cgccttcctg gagcagggtg ggcttaggtg ctgtgggtcc ccattttacc tcaaggaagc
+     4921 ctttggcgat gggtatcacc tcacgcttac caagaagaag agtccaaatt taaatgcaaa
+     4981 tgcagtatgt gacaccatgg ccgtgacagc aatgatccaa tcacatctcc ccgaagccta
+     5041 cctcaaggag gatattgggg gagagcttgt ttatgtactt cctccattca gcaccaaagt
+     5101 ctcaggggcc tacctgtcac tcctacgggc actcgacaat ggcatgggtg acctcaacat
+     5161 cgggtgctac ggcatttcag ataccaccgt ggaggaggtc tttctgaact tgaccaaaga
+     5221 gtcacaaaaa aatagtgcta tgagtcttga gcacttaaca caaaagaaaa ttgggaattc
+     5281 caatgccaat ggcatctcaa ctcctgacga tttatctgtg agcagcagca atttcacaga
+     5341 cagagatgac aaaatcctga caagaggaga gaggctggat ggctttggac tgttgctgaa
+     5401 gaagatcatg gctatactca tcaagaggtt ccaccacacc cgcaggaact ggaaaggtct
+     5461 cattgctcag gttatcctcc ccatcgtctt tgttaccact gccatgggcc ttggcacact
+     5521 gagaaattcc agcaacagtt atccagagat tcagatctcc ccctctcttt atggtacctc
+     5581 cgaacagaca gccttctatg ctaattatca cccgagcacg gaagcacttg tctcagcaat
+     5641 gtgggacttc cctggaattg acaacatgtg tctgaacacc agtgatctac agtgtttaaa
+     5701 caaagacagt ctggaaaaat ggaacaccag tggagaaccc atcactaatt ttggtgtttg
+     5761 ctcctgctca gaaaatgtcc aggaatgtcc taaatttaac tattccccac cgcacagaag
+     5821 aacttactca tcccaggtaa tttataacct cactgggcaa cgagtggaaa attatcttat
+     5881 atcaactgca aatgagtttg tccaaaaaag atatggaggt tggagttttg ggctgccttt
+     5941 gacaaaagac cttcgttttg atataacagg agtccctgcc aatagaacac ttgccaaggt
+     6001 atggtatgat ccagaaggct atcactccct tccagcttac ctcaacagcc tgaataattt
+     6061 ccttctgcga gttaacatgt caaaatacga tgctgcccga catggcatca tcatgtatag
+     6121 ccatccttat ccaggagtgc aagaccaaga acaagccaca atcagcagtt taatcgatat
+     6181 tttagtggca ctgtctatct tgatgggcta ctctgtcacc accgccagct ttgtcaccta
+     6241 tgttgtaagg gaacatcaaa ccaaagccaa acagttgcag cacatttcag gcattggcgt
+     6301 gacatgctac tgggtaacaa acttcattta tgacatggtt ttctacttgg tgcctgtagc
+     6361 gttttcaatt ggtatcattg cgattttcaa attacctgca ttctacagtg aaaacaacct
+     6421 aggcgctgta tctctcctac ttctcctgtt tgggtatgca acattttcct ggatgtactt
+     6481 gctggctggg ctcttccatg aaacaggaat ggccttcatc acttacgtct gtgtcaactt
+     6541 gttttttggc attaattcca ttgtttccct gtcagtggta tactttcttt ccaaggaaaa
+     6601 gcctaatgat ccgactttag aacttatttc tgaaaccctc aagcgcattt tcctgatttt
+     6661 cccacaattc tgttttggct acggtttgat tgaactttct caacaacagt cggtcctaga
+     6721 cttcttaaaa gcatatggag tggaataccc aaatgaaacc tttgagatga ataaactagg
+     6781 tgcaatgttt gtggctttgg tttctcaggg caccatgttt ttttccttgc gactcttaat
+     6841 caacgaatcc ctgataaaga aactcaggct tttcttcaga aaatttaatt cttcacatgt
+     6901 aagggagaca atagatgagg atgaagatgt gcgggctgag agattaagag ttgagagtgg
+     6961 tgcagctgaa tttgacttgg tccaacttta ttgtctcaca aagacctacc aacttatcca
+     7021 caaaaagatt atagctgtaa acaacatcag cattgggata cctgctggag agtgttttgg
+     7081 gcttcttgga gtgaatggag caggaaagac cactatattc aagatgctga caggagacat
+     7141 cattccttca agtggaaaca ttctgatcag aaataagacc ggatctctgg gtcacgttga
+     7201 ttctcacagc tcattagttg gctactgtcc tcaggaagat gccttagatg acctggtaac
+     7261 tgtggaagaa catttgtatt tctatgccag ggtacatgga attccagaaa aggatattaa
+     7321 agaaactgtt cataaactcc ttaggagact tcacctgatg cccttcaagg acagagctac
+     7381 ctctatgtgc agttatggca caaaaagaaa attatccact gcactggcct tgatagggaa
+     7441 accttccatt ctactgctgg atgagccgag ctctggcatg gatccgaagt cgaaacggca
+     7501 cctctggaag atcatttcag aagaagtaca gaacaaatgt tccgtcatcc tcacatctca
+     7561 cagcatggaa gaatgtgaag ctctctgtac caggttggcc attatggtga atggaaagtt
+     7621 tcaatgtatt ggatctttgc agcacataaa gagcaggttt ggacgaggat ttactgtcaa
+     7681 agttcacttg aagaataaca aagtgaccat ggagaccctc acaaagttca tgcagctgca
+     7741 ctttccaaaa acatacttaa aagatcagca cctcagcatg ctagagtatc atgtaccagt
+     7801 cacagcagga ggagtcgcaa acatttttga tctgctggaa accaacaaga ctgctttaaa
+     7861 tattacaaat ttcttagtga gtcagaccac tctggaagag gttttcatca actttgccaa
+     7921 agaccagaag tcctatgaaa ctgctgatac cagcagccaa ggttccacta taagtgttga
+     7981 ctcacaagat gaccagatgg agtcttaaca cttccagcaa actcaatctc agcgtgtgac
+     8041 caatggcttc attttgaaga aaagccacag aagatacact tccgcaagat atcttcattt
+     8101 taaagtaaag taatatactg tatggaaagt tacaactgtg ttagactaac aagtaattat
+     8161 aaaaggaaat ttttccttct aaggtcagtg agtgttgttg ctactgaaat gaattcctgt
+     8221 atactcaaca ctgtgagcat gctaatgtat atgctggtga ttcttatgca aaggtgaagc
+     8281 cacctcaaga tgaatatctt aatttattac tttcaataaa aagacagttt aaaaggcatg
+     8341 gattttggta gttgaaatat aagagtggag aagaaaagtc agatggtttg tggcaggtgc
+     8401 caccgggcaa gcagacaaca taatttattt ccagaaaaca acagaatgaa catcatcatg
+     8461 aatacatgaa tcggctgtga tgtgtgaact gctaagggcc aaatgaacgt ttgcagagca
+     8521 gtgggcacaa tgtttacaat gtatgtgtat gtcactttcg gtacctgtga atgcatgggg
+     8581 acgtgctgaa cccgaaaaaa agtgcctttc cataaggact gcaatagaga gggcaattta
+     8641 ccctggtggt acacggaacc tagattcact cctgccatgc cttgccaata gtaagctgca
+     8701 gggtggaaca agaaatcact tgctctgggg ggaagggagg ggggaatggg tgtgtcagct
+     8761 gggtagatac aaaccctgaa aagagaatcc atgtgctact ggcaggcaac attttttaaa
+     8821 gctctttcag aaaccctcat atttggggtt tcttttcagg aaacattcct gtggagggaa
+     8881 aacgaatatg aagataattt tcagctaatt atctgggtga cccagaatcg tgtatatggc
+     8941 tataggatag acttcttaat aatggcaagt gacgtggccc tggggaaagg tgctttatgt
+     9001 accgtgtgtg cgtgtatgtg tgtgtatcta tacaagtttg tcagctttgg catgactgtt
+     9061 tgtctcgaaa accaataaac tcaaagttta gaaaaactca aaaaaaaaaa aa
+//
+
